@@ -291,7 +291,7 @@ GEM
     orm_adapter (0.5.0)
     paranoia (2.6.4)
       activerecord (>= 5.1, < 7.2)
-    pg (1.5.7)
+    pg (1.5.8)
     popper_js (1.16.1)
     psych (5.1.2)
       stringio
